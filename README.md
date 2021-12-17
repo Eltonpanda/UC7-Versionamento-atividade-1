@@ -1,4 +1,4 @@
-# UC7-Versionamento-atividade-
+﻿# UC7-Versionamento-atividade-
 git init
 git status
 git add .
@@ -13,3 +13,4 @@ git status
 git add .
 git commit -m "segunda alteração do arquivo atividade-1.txt
 git push origin main
+git pull

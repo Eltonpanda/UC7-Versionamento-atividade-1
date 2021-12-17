@@ -1,1 +1,3 @@
 Criação de repositório local e remoto
+
+publicação dos trabalhos no repositório remoto
